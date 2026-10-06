@@ -13,7 +13,7 @@ from firebase_admin import credentials, firestore
 # ==========================================
 # Configuration
 # ==========================================
-BOT_TOKEN = "8701921482:AAHJGs0EtvfFxHimDq9IpiI_4LaB4KYZAzM"
+BOT_TOKEN = "8363148012:AAG-B3J3YakKM520jcMK7rfXfhTgkdiFSQU"
 ADMIN_ID = 8116134672
 BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/"
 BOT_USERNAME = "Bixbysmsbot"
